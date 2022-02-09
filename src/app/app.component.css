@@ -1,0 +1,43 @@
+.navbar-brand {
+    color: blue;
+    font-weight: bold;
+    font-size: 35px;
+   
+   }
+   i
+   {
+       font-size: 23px;
+   
+   }
+   
+   img{
+   
+   width: 500px; 
+   height: 500px;
+   
+   }
+   .form-row{
+       margin: auto;
+       
+      
+   }
+   .btn{
+       border: none;
+       outline: none;
+       height: 50px;
+       width: 92%;
+      
+       color: white;
+       border-radius: 4px;
+       font-weight: bold;
+   
+   }
+   .input{
+       
+       border-color: red;
+    
+   }
+   
+   footer{
+       align-items: center;
+   }
